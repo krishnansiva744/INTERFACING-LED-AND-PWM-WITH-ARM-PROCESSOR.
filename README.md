@@ -54,7 +54,7 @@ Header:
 
 # PIN DIAGRAM :
 
-<img width="724" height="415" alt="image" src="https://github.com/user-attachments/assets/723bc198-dfe6-494a-beb0-bacb6a7cb84c" />
+<img width="724" height="373" alt="Screenshot 2025-11-11 140836" src="https://github.com/user-attachments/assets/b0104bb6-5b81-408e-a8b9-5406e78d1788" />
 
 # CIRCUIT DIAGRAM:
 
